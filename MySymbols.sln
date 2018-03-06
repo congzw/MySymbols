@@ -17,6 +17,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{53A7F914-04B
 		readme.md = readme.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{B87B5634-22DF-473F-A7B6-422703D6E3D5}"
+	ProjectSection(SolutionItems) = preProject
+		tools\wdk8.1_auto_download.exe = tools\wdk8.1_auto_download.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
